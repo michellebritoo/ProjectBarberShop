@@ -9,7 +9,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Monique
+ * @author Michelle
  */
 public class Agendamento {
     
