@@ -10,7 +10,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author tiago
+ * @author Michelle
  */
 public class UsuarioDAO {
     
