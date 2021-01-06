@@ -10,7 +10,7 @@ import view.MenuPrincipal;
 
 /**
  *
- * @author Monique
+ * @author Michelle
  */
 public class MenuPrincipalController {
  
